@@ -1,5 +1,5 @@
 # WebCalendarv1.2.3
-Web Calendar v1.2.3 Remote Code Execution
+Script written in python to exploit Web Calendar v1.2.3.
 
 <hr>
 
